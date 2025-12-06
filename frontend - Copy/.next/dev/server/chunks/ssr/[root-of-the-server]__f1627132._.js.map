@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Karthikeyan/Downloads/smart-study-hub-frontend%20%289%29/frontend/app/page.tsx"],"sourcesContent":["\nimport { redirect } from \"next/navigation\";\nexport default function Home() {\n  redirect(\"/signup\");\n}"],"names":[],"mappings":";;;;AACA;AAAA;;AACe,SAAS;IACtB,IAAA,iMAAQ,EAAC;AACX"}}]
+}
